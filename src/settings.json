@@ -6,6 +6,7 @@
     "newContractZipFileName": "./newContractData.zip"
   }
 }
+//set 11
 /*abc d\return await this.service.upgradeContract(zipBuf, parseFloat(data.version), data.description || "");
         } catch (e) {
             return {
